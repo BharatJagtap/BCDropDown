@@ -6,6 +6,4 @@ A simple drow down view on iOS .
 <img src="/Meta/BCDropDownButton.gif" width="350"/>
 </p>
 
-![alt tag](/Meta/BCDropDownButton.gif)
-
 
